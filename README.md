@@ -7,7 +7,7 @@ This repository contains the source code for the mobile application project.
 Due to GitHub size limitations, some large files are uploaded on Google Drive.
 
 🔗 Download link:
-https://drive.google.com/(https://drive.google.com/drive/folders/1bOX4nlxxZsUrHeTQRRsxCteJEKhxs9de?usp=drive_link)
+(https://drive.google.com/drive/folders/1bOX4nlxxZsUrHeTQRRsxCteJEKhxs9de?usp=drive_link)
 
 ## How to Run
 - Open the project in Android Studio
